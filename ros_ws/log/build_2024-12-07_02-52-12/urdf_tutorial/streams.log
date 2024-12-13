@@ -1,0 +1,17 @@
+[0.581s] Invoking command in '/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data
+[0.799s] running develop
+[0.928s] running egg_info
+[0.928s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.928s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.928s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.928s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.929s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.956s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.957s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.986s] running build_ext
+[0.987s] Creating /home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages/urdf-tutorial.egg-link (link to .)
+[0.987s] 
+[0.987s] Installed /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial
+[0.988s] running symlink_data
+[0.988s] symbolically linking /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/launch/sim.launch.py -> /home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[1.006s] Invoked command in '/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial' returned '0': PYTHONPATH=/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data

@@ -1,0 +1,1 @@
+/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/launch/robot_6.launch.py

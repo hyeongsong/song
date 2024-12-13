@@ -1,0 +1,16 @@
+[0.580s] Invoking command in '/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data
+[0.803s] running develop
+[0.936s] running egg_info
+[0.937s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.937s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.937s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.937s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.937s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.980s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.981s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[1.011s] running build_ext
+[1.011s] Creating /home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages/urdf-tutorial.egg-link (link to .)
+[1.012s] 
+[1.012s] Installed /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial
+[1.012s] running symlink_data
+[1.033s] Invoked command in '/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial' returned '0': PYTHONPATH=/home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoohyeongsong/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yoohyeongsong/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data

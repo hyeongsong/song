@@ -1,0 +1,3 @@
+[console_scripts]
+send_goal = src.send_goal:main
+
